@@ -1,5 +1,5 @@
-
-import React from 'react'
+import React from "react";
+import { Link } from "react-router-dom";
 
 function Brokerage() {
   return (
@@ -16,15 +16,18 @@ function Brokerage() {
           and more — all through one simple investment platform.
         </p>
 
-        <button
-          className="btn btn-primary px-4 py-2 fs-5"
+        <Link
+          to="/signup"
+          className="p-2 btn btn-primary fs-5"
           style={{
-            backgroundColor: '#9169dc',
-            borderColor: '#7848D0'
+            backgroundColor: "#7848D0",
+            borderColor: "#7038B8",
+            width: "20%",
+            margin: "0 auto",
           }}
         >
-          Sign Up Now
-        </button>
+          Signup Now
+        </Link>
       </div>
 
 
