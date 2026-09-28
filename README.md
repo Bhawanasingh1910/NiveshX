@@ -123,7 +123,7 @@ The prices, orders, brokerage information, and portfolio data shown in the proje
 
 ## Built By
 
-**Bhawana Singh**
+**Bhawana**
 B.Tech Computer Science & Engineering
 Indira Gandhi Delhi Technical University for Women (IGDTUW)
 
